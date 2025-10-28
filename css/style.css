@@ -41,5 +41,10 @@ body {
 }
 
 #next-button {
-  display: none;
+  margin-top: 20px;
+  padding: 10px;
+  background-color: orange;
+  color: black;
+  border: none;
+  border-radius: 20px;
 }
